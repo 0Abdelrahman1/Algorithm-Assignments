@@ -1,3 +1,3 @@
-# Algorithm-Assignments
+## Algorithm-Assignments
+# Date: April-2024
 3 graded assignments about [Divide & Conquer - Greedy - Graph]
-these assignments made in April-2024
